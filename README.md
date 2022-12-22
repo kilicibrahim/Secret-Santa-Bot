@@ -1,7 +1,8 @@
 # Secret-Santa-Bot
 Simple Secret Santa Bot Java
 
-Maven: 
+Maven:
+
 <dependency>
   <groupId>javax.activation</groupId>
   <artifactId>activation</artifactId>
