@@ -9,6 +9,7 @@ Maven:
   <version>1.1.1</version>
 </dependency>
 
+-
 
 <dependency>
   <groupId>javax.mail</groupId>
